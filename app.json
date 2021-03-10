@@ -13,7 +13,7 @@
     ],
     "website": "https://github.com/HiEN63/AnonymousChat",
     "repository": "https://github.com/HiEN63/AnonymousChat",
-    "logo": "https://github.com/watosar/AnonymousChat/blob/master/anonchat/template/at_sign.png",
+    "logo": "https://github.com/HiEN63/AnonymousChat/blob/master/anonchat/template/at_sign.png",
     "env": {
         "token": {
             "description": "YOUR BOT TOKEN",
