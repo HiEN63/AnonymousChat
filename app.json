@@ -11,8 +11,8 @@
             "url": "heroku/python"
         }
     ],
-    "website": "https://github.com/watosar/AnonymousChat",
-    "repository": "https://github.com/watosar/AnonymousChat",
+    "website": "https://github.com/HiEN63/AnonymousChat",
+    "repository": "https://github.com/HiEN63/AnonymousChat",
     "logo": "https://github.com/watosar/AnonymousChat/blob/master/anonchat/template/at_sign.png",
     "env": {
         "token": {
